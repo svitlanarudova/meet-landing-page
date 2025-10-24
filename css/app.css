@@ -246,8 +246,7 @@ MAIN
   object-fit: contain;
 }
 .hero__content {
-  --width-hero-content: 30rem;
-  inline-size: min(100%, var(--width-hero-content));
+  inline-size: min(100%, 30rem);
   padding: 1.5rem 0.9375rem;
   text-align: center;
 }
