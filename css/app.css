@@ -130,6 +130,7 @@ body {
   color: var(--main-color-slate-600);
   line-height: 1.5;
   font-weight: 500;
+  background-color: hsl(0, 0%, 98%);
 }
 .wrapper {
   overflow: hidden;
